@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/killerdude786/najid-beingzero/issues"
   },
-  "homepage": "https://github.com/killerdude786/najid-beingzero#readme"
+  "homepage": "https://github.com/killerdude786/najid-beingzero#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
